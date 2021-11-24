@@ -1,0 +1,44 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Physics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Synthetic Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b4b63c36-292a-b08f-bd21-0252707b9c2e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Systems Biology",
+  "course_description": "This course provides an introduction to cellular and population-level systems biology with an emphasis on synthetic biology, modeling of genetic networks, cell-cell interactions, and evolutionary dynamics. Cellular systems include genetic switches and oscillators, network motifs, genetic network evolution, and cellular decision-making. Population-level systems include models of pattern formation, cell-cell communication, and evolutionary systems biology.\n",
+  "department_numbers": [
+    "8",
+    "7"
+  ],
+  "extra_course_numbers": "7.81J,7.32",
+  "primary_course_number": "8.591J",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Videos"
+  ],
+  "title": "Course Metadata"
+}
